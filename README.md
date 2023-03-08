@@ -21,4 +21,3 @@ N/A
 ## License
 
 Refer to license MIT License found in repository.
----
